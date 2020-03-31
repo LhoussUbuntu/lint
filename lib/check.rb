@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# hhh
 class Check
   def get_heading(line)
     line.gsub(/^\W+/, '').chomp
