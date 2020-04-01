@@ -1,15 +1,33 @@
-# Marckdown Linter
-this is a marckdown linter created by lhoussaine bouaik
+# Enumerable-Methods
 
-## Built with 
-* ruby
-## Requirement 
-* colorize
-* rspec
-* Rubocop
+## About the Project
+In this project i created my own version of Ruby’s enumerable methods.
 
-## Instructions
+![Capture](https://user-images.githubusercontent.com/45256093/75766057-d4efd900-5d40-11ea-84e9-98f4e1f2ea42.JPG)
 
-![SCREEN](https://via.placeholder.com/150)
+## Authors
 
-[github](https://via.placeholder.com/100)
+[@bouaik](https://github.com/bouaik)
+[@bouaik]()
+
+## 🤝 Contributing
+
+![Capture]()
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/bouaik/Enumerable-Methods/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- the Oding Project
+- Ruby Docs
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
